@@ -1,0 +1,23 @@
+[
+	{
+		"id": "7db67f2e-f01d-414c-8f1b-058fa2d4c8de",
+		"name": "PT Cruiser",
+		"releaseYear": 2021,
+		"available": true,
+		"gasAvailable": true
+	},
+	{
+		"id": "2c2728e3-1281-44f6-a7ee-e15c61a61f4c",
+		"name": "LeBaron",
+		"releaseYear": 2021,
+		"available": true,
+		"gasAvailable": true
+	},
+	{
+		"id": "3d1be536-4bc9-4148-a6b2-dc4abba26102",
+		"name": "Mustang",
+		"releaseYear": 2021,
+		"available": true,
+		"gasAvailable": true
+	}
+]

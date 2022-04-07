@@ -1,0 +1,10 @@
+{
+	"id": "75e0ddd2-2c58-4e60-b34b-00e280725d4a",
+	"name": "Sedan",
+	"carIds": [
+		"7db67f2e-f01d-414c-8f1b-058fa2d4c8de",
+		"2c2728e3-1281-44f6-a7ee-e15c61a61f4c",
+		"3d1be536-4bc9-4148-a6b2-dc4abba26102"
+	],
+	"price": 35.9
+}
